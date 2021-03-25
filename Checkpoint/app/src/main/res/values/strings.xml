@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Checkpoint</string>
+    <string name="btncalculadora">CALCULADORA</string>
+    <string name="btnContaTelefonica" />
+    <string name="btnIntegrantes">INTEGRANTES</string>
+    <string name="ContaTelefonica">CONTA TELEFÔNICA</string>
+    <string name="Calcular">CALCULAR</string>
+    <string name="Valor1">Valor 1</string>
+</resources>

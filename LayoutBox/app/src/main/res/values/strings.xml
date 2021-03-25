@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LayoutBox</string>
+    <string name="tv_nome">Nome</string>
+    <string name="btnMensagem">MENSAGEM</string>
+</resources>
